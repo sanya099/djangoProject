@@ -1,0 +1,25 @@
+{% extends 'app/base.html' %} {% block content %} {% for post in posts %}
+Posts by{{view.kwargs.username}} ({{page_obj.paginator.count}})
+<article class="media content-section">
+  <div class="row">
+    <div class="col-md-2 d-flex align-items-center justify-content-center">
+      <img
+        class="col-md-10 rounded-circle"
+        src="{{ post.author.profile.image.url }}"
+      />
+    </div>
+    <div class="media-body col-md-10">
+      <div class="article-metadata">
+        <a class="mr-2 text-decoration-none" href="">{{ post.author }}</a>
+        <small class="text-muted">{{ post.date_posted|date:"F d, Y" }}</small>
+      </div>
+      <h2>
+        <a class="article-title text-decoration-none" href=""
+          >{{ post.title }}</a
+        >
+      </h2>
+      <p class="article-content">{{ post.content }}</p>
+    </div>
+  </div>
+</article>
+{% endfor %} {% endblock content%}

@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Deep Learning",
+    "content": "Deep learning is a subset of machine learning that uses neural networks with many layers to model complex patterns in data. It powers applications like image recognition, speech processing, and natural language understanding.",
+    "user_id": 1
+  },
+  {
+    "title": "Electric Vehicles",
+    "content": "Electric vehicles run on batteries instead of fuel, reducing carbon emissions and dependence on fossil fuels. They are becoming more popular due to environmental benefits and advances in battery technology.",
+    "user_id": 2
+  },
+  {
+    "title": "Cloud Computing",
+    "content": "Cloud computing provides on-demand access to computing resources over the internet. It allows businesses to scale easily, reduce costs, and improve flexibility using services like storage, servers, and databases.",
+    "user_id": 3
+  },
+  {
+    "title": "Blockchain",
+    "content": "Blockchain is a decentralized digital ledger that records transactions securely. It is widely used in cryptocurrencies and ensures transparency, immutability, and trust without relying on a central authority.",
+    "user_id": 1
+  },
+  {
+    "title": "Artificial Intelligence",
+    "content": "Artificial intelligence enables machines to mimic human intelligence. It is used in chatbots, recommendation systems, and automation, helping improve efficiency and decision-making across industries.",
+    "user_id": 2
+  },
+  {
+    "title": "Cybersecurity",
+    "content": "Cybersecurity protects systems, networks, and data from digital attacks. It involves techniques like encryption, firewalls, and authentication to ensure confidentiality, integrity, and availability of information.",
+    "user_id": 3
+  },
+  {
+    "title": "Internet of Things",
+    "content": "IoT connects everyday devices to the internet, enabling them to send and receive data. Smart homes, wearable devices, and connected cars are examples of IoT applications improving convenience and efficiency.",
+    "user_id": 1
+  },
+  {
+    "title": "5G Technology",
+    "content": "5G is the fifth generation of mobile networks, offering faster speeds and lower latency. It supports advanced technologies like autonomous vehicles, smart cities, and real-time communication systems.",
+    "user_id": 2
+  },
+  {
+    "title": "Augmented Reality",
+    "content": "Augmented reality overlays digital content onto the real world. It is used in gaming, education, and retail to enhance user experiences by blending physical and virtual environments.",
+    "user_id": 3
+  },
+  {
+    "title": "Virtual Reality",
+    "content": "Virtual reality creates immersive digital environments that users can interact with. It is widely used in gaming, training simulations, and education for realistic experiences.",
+    "user_id": 1
+  },
+  {
+    "title": "Big Data",
+    "content": "Big data refers to large and complex datasets that require advanced tools to process. It helps organizations gain insights, improve decision-making, and predict trends using analytics.",
+    "user_id": 2
+  },
+  {
+    "title": "Data Science",
+    "content": "Data science combines statistics, programming, and domain knowledge to analyze data. It helps extract insights and supports data-driven decisions in various industries.",
+    "user_id": 3
+  },
+  {
+    "title": "Quantum Computing",
+    "content": "Quantum computing uses quantum bits to perform calculations much faster than classical computers. It has the potential to revolutionize fields like cryptography and drug discovery.",
+    "user_id": 1
+  },
+  {
+    "title": "Renewable Energy",
+    "content": "Renewable energy comes from natural sources like sunlight, wind, and water. It is sustainable and helps reduce environmental impact compared to fossil fuels.",
+    "user_id": 2
+  },
+  {
+    "title": "Smart Cities",
+    "content": "Smart cities use technology to improve urban living. Sensors, data analytics, and IoT help manage traffic, energy, and public services efficiently.",
+    "user_id": 3
+  },
+  {
+    "title": "Edge Computing",
+    "content": "Edge computing processes data near its source instead of relying on centralized servers. It reduces latency and improves performance for real-time applications.",
+    "user_id": 1
+  },
+  {
+    "title": "DevOps",
+    "content": "DevOps is a practice that combines development and operations teams. It focuses on automation, collaboration, and continuous delivery to improve software development speed and reliability.",
+    "user_id": 2
+  },
+  {
+    "title": "Microservices",
+    "content": "Microservices architecture breaks applications into small, independent services. Each service performs a specific function, improving scalability and maintainability.",
+    "user_id": 3
+  },
+  {
+    "title": "API Development",
+    "content": "APIs allow different software systems to communicate with each other. They enable integration, data sharing, and functionality expansion across platforms.",
+    "user_id": 1
+  },
+  {
+    "title": "Machine Learning",
+    "content": "Machine learning enables systems to learn from data and improve over time without explicit programming. It is used in recommendation systems, fraud detection, and predictive analytics.",
+    "user_id": 2
+  },
+  {
+    "title": "Natural Language Processing",
+    "content": "NLP helps computers understand and process human language. It powers chatbots, translation tools, and voice assistants.",
+    "user_id": 3
+  },
+  {
+    "title": "Computer Vision",
+    "content": "Computer vision enables machines to interpret visual data. It is used in facial recognition, medical imaging, and autonomous vehicles.",
+    "user_id": 1
+  },
+  {
+    "title": "Robotics",
+    "content": "Robotics involves designing and building machines that perform tasks automatically. It is used in manufacturing, healthcare, and space exploration.",
+    "user_id": 2
+  },
+  {
+    "title": "E-commerce",
+    "content": "E-commerce allows buying and selling goods online. It provides convenience, global reach, and personalized shopping experiences.",
+    "user_id": 3
+  },
+  {
+    "title": "Digital Marketing",
+    "content": "Digital marketing promotes products using online platforms. It includes SEO, social media, and email marketing to reach targeted audiences effectively.",
+    "user_id": 1
+  }
