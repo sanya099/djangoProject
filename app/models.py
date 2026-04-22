@@ -14,3 +14,5 @@ class Posts(models.Model):
     
     def get_absolute_url(self):
         return reverse('post-detail',kwargs={'pk':self.pk})
+#     In CreateView / UpdateView
+# After saving a post → redirect to that post
